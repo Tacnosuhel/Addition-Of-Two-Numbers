@@ -3,3 +3,5 @@ if x=="Yes":
   print("Eat the Banana")
 else:
   print("Study")
+
+print(5+7)
