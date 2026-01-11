@@ -7,3 +7,7 @@ else:
 print(5+7)
 print("Suhel")
 print("Yellow")
+
+def add():
+  print(5+7)
+
