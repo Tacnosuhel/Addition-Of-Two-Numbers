@@ -7,4 +7,3 @@ else:
 print(5+7)
 print("Suhel")
 print("Yellow")
-print("Again Yellow")
